@@ -5,6 +5,7 @@ public class Student {
   private String pass;
   private String name;
 public int getSid() {
+//hello
 	return sid;
 }
 public void setSid(int sid) {
